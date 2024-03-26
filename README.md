@@ -6,7 +6,7 @@ For know more details about AvatarView:https://www.syncfusion.com/xamarin-ui-con
 
 AvatarView user guide documentation:https://help.syncfusion.com/xamarin/avatar-view/getting-started
 
-# Visual Style in Xamarin Avatar View(SfAvatarView)
+## Visual Style in Xamarin Avatar View(SfAvatarView)
 
 The SfAvatarView control supports customization using the following built-in visual styles:
 
